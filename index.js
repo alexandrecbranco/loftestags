@@ -1,3 +1,4 @@
-console.log("genial");
+for (var i = 0; i < 100; i++) {
 
-console.log("Fix");
+    console.log("asdasd");
+}
