@@ -1,5 +1,7 @@
-console.log("genial");
+for (var i = 0; i < 100; i++) {
 
+    console.log("asdasd");
+}
 console.log("Aaaaaaa");
 
 for (var i=0, i<100, i++){
@@ -9,4 +11,3 @@ for (var i=0, i<100, i++){
 
 console.log()
 console.log("Fix");
-
